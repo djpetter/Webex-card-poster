@@ -1,2 +1,3 @@
-# Webex-card-poster
-app to post cards in webex
+# vite-react
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vite-react)
